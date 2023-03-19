@@ -1,0 +1,18 @@
+ > 
+  > Bookmarks Menu
+   > Mozilla Firefox
+     Get Help : https://support.mozilla.org/products/firefox
+     Customize Firefox : https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize
+     Get Involved : https://www.mozilla.org/contribute/
+     About Us : https://www.mozilla.org/about/
+  > Bookmarks Toolbar
+    Gmail : https://mail.google.com/mail/u/0/#inbox
+    Youtube : https://www.youtube.com/
+    Hotstar : https://www.hotstar.com/in
+    Drive : https://drive.google.com/drive/my-drive
+    C++ Compiler : https://www.onlinegdb.com/online_c++_compiler
+    GfG : https://www.geeksforgeeks.org/
+    Prime Video : https://www.primevideo.com/region/eu/ref=atv_pr_sw_sc?gclid=EAIaIQobChMIkoy75qK2_QIVeJlmAh1HMwCWEAAYASAAEgLvs_D_BwE&mrntrk=pcrid_610141119732_slid__pgrid_84577172328_pgeo_20466_x__adext__ptid_kwd-303629226711
+    Netflix : https://www.netflix.com/browse
+  > Other Bookmarks
+  > Mobile Bookmarks

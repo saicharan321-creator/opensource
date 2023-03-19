@@ -1,0 +1,27 @@
+{
+"Host raw": "http://www.decathlon.in/",
+
+"Name raw": "city","
+
+"Path raw": "/
+
+"Content raw": "Visakhapatnam",
+
+"Expires": "05-01-2023 07:33:49", "Expires raw": "1672884229",
+
+"Send for": "Any type of connection",
+
+ "Send for raw": "false",
+
+"HTTP only raw": "false",
+
+"Samesite raw": "no restriction",
+
+"This domain only": "valid for host only",
+
+"This domain only raw": "true",
+
+"store raw": "firefox-default",
+
+"First Party Domain":""
+}
